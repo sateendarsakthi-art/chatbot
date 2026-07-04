@@ -1,2 +1,2 @@
 # chatbot
-nothing so special... just for fun....
+Just A simple chatbot with react frontend and flask backend
